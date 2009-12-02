@@ -1,0 +1,18 @@
+Author: Aliaksandr Abushkevich 
+------------------------------------------------------
+This package consists of two parts: server and client.
+
+SERVER
+Server was packaged as plugin to twistd
+
+CLIENT
+Client application was developed using GTK2.0. 
+It is known to work under Ubuntu 9.04/GNOME.
+Application was not tested on Windows OS.
+
+
+To run server and client, execute
+
+>>python run_all.py
+
+------------------------------------------------------
